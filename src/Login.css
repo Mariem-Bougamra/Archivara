@@ -1,0 +1,20 @@
+@import '~antd/dist/antd.css';
+
+.Login {
+    text-align: center;
+    border : 2px solid black;
+    background: papayawhip;
+    color: greenyellow;
+    margin: 20px;
+    padding: 32px;
+  }
+ .login-form {
+    max-width: 100%;
+  }
+ .login-form-forgot {
+    float: right;
+  }
+.login-form-button {
+    width: 100%;
+  }
+ 
